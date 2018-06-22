@@ -1,0 +1,121 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+img{
+	max-width: 100%;
+	display: inline-block;
+	/* float:  left; */
+	text-align:  right;
+	margin-right: 10px;
+}
+*{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+.container{
+	width: 1500px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+header{
+    padding: 25px 0;
+}
+.logo{
+	width: 20%;
+	float: left;
+}
+nav{}
+nav ul{}
+.icons{
+	width: 80%;
+	float: left;
+}
+.icons ul{
+}
+.icons ul li{
+	list-style: none;
+	float:  right;
+	text-align:  right;
+	display:  inline-block;
+}
+.icons ul li img{
+	margin-left: 14px;
+	float: left;
+}
+header hr{
+    width: 1500px;
+    margin: 30px 0;
+    border-color: #9da0a257;
+    display: inline-block;
+}
+nav{
+}
+nav ul{
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+nav ul li{
+	list-style: none;
+    display: inline;
+}
+nav ul li a{
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-right: 32px;
+	color: #737373;
+}
+nav ul li a:hover{
+	color: #2DCD70;
+}
+
+.banner-section{
+    background: url(../images/bannerbg.jpg);
+    padding-top: 100px;
+}
+.banner{
+}
+.banner img{
+}
+
+.under-banner-section{
+    margin: 30px 0;
+    text-align: center;
+}
+.under-banner-section p{
+    text-transform: uppercase;
+    color: #AEADAD;
+}
+.under-banner-section a{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    background: #2ECC71;
+    padding: 15px 30px;
+    display: inline-block;
+}
+
+.get-to-know{}
+.image{}
+.image img{}
+.details{}
+.details h1{}
+.details p{}
+
+.find-out{}
+.headline{}
+.headline h1{}
+.button{}
+.button a{}
+
+footer{}
+.copyright{}
+.copyright span{}
+.footer-nav{}
+.footer-nav ul{}
+.footer-nav ul li{}
+.footer-nav ul li a{}
